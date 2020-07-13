@@ -1,10 +1,4 @@
-//
-//  BoxARTouchUITests.swift
-//  BoxARTouchUITests
-//
-//  Created by Nラボ on 2020/07/13.
-//  Copyright © 2020 naokisakano. All rights reserved.
-//
+
 
 import XCTest
 
